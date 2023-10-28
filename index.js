@@ -26,6 +26,17 @@ return g/h;
 }
 divide(g, h);
 
+function increments(n) {
+  return n + 1;
+}
+console.log(increments());
+
+function decrements(n) {
+  return n - 1;
+}
+console.log(decrements())
+
+
  
 
 let i = Math.floor(Math.random() * 1000);
