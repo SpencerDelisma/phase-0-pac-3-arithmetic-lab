@@ -26,15 +26,15 @@ return g/h;
 }
 divide(g, h);
 
-function increments(n) {
+function increment(n) {
   return n + 1;
 }
-console.log(increments());
+console.log(increment());
 
-function decrements(n) {
+function decrement(n) {
   return n - 1;
 }
-console.log(decrements())
+console.log(decrement())
 
 
  
